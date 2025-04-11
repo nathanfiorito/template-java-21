@@ -1,1 +1,0 @@
-# template-java-21
